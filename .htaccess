@@ -1,0 +1,11 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^www\.seruabbas\.info$
+RewriteRule ^public_html$ "https\:\/\/www\.seruabbas\.info\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^public_html\/admin\/font\-awesome\/?(.*)$ "https\:\/\/www\.seruabbas\.info\/$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.seruabbas\.info$
+RewriteRule ^public_html$ "https\:\/\/www\.seruabbas\.info\/" [R=301,L]
+
