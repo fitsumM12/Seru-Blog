@@ -13,11 +13,11 @@ In conclusion, our blog website is a testament to the power of technology and in
 
 
 ## Home Page
-<img src = "https://github.com/fitsumM12/E-Learning/blob/main/images/home.png">
+<img src = "https://github.com/fitsumM12/Seru-Blogblob/main/images/home.png">
 
 
 ## Admin Dashboard
-<img src = "https://github.com/fitsumM12/E-Learning/blob/main/images/admin.png">
+<img src = "https://github.com/fitsumM12/Seru-Blog/blob/main/images/admin.png">
 
 # For More
 Reach me out through available option from my profile.
